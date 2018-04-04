@@ -2,7 +2,8 @@ textarea {
   width: 100%;
   box-sizing: border-box;
   border: 2px solid #ccc;
-  border-radius: 4px; }
+  border-radius: 4px;
+  resize: none; }
 
 .markdownView {
   margin-right: 10px; }

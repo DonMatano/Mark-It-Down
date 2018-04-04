@@ -1,0 +1,12 @@
+textarea {
+  width: 100%;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px; }
+
+.markdownView {
+  margin-right: 10px; }
+
+.jumbotron {
+  color: #26d6d6;
+  background-color: #1B2B34; }

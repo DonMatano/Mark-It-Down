@@ -1,0 +1,18 @@
+@import './variables.scss';
+
+textarea{
+    width: 100%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    // font-family: sans-serif;
+}
+
+.markdownView{
+    margin-right: 10px;
+}
+
+.jumbotron{
+    color: $textColor;
+    background-color: $appMainBackgroundTheme;
+}

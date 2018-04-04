@@ -57,7 +57,7 @@ class App extends Component {
           </div> */}
         </Grid>
 
-        <footer className='mt-2'>
+        <footer className=''>
           <div className="container">
               <p className="text-center">Created by <a href="https://github.com/DonMatano" target='_'>Matano Mwakima.</a> </p>
           </div>
